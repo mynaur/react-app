@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mynaur/react-app/static/css/main.b59dfb5e.chunk.css",
+    "main.js": "/mynaur/react-app/static/js/main.e2ce59a2.chunk.js",
+    "main.js.map": "/mynaur/react-app/static/js/main.e2ce59a2.chunk.js.map",
+    "runtime-main.js": "/mynaur/react-app/static/js/runtime-main.3e9ed416.js",
+    "runtime-main.js.map": "/mynaur/react-app/static/js/runtime-main.3e9ed416.js.map",
+    "static/js/2.e2c89c95.chunk.js": "/mynaur/react-app/static/js/2.e2c89c95.chunk.js",
+    "static/js/2.e2c89c95.chunk.js.map": "/mynaur/react-app/static/js/2.e2c89c95.chunk.js.map",
+    "index.html": "/mynaur/react-app/index.html",
+    "precache-manifest.54b9028814876dd4c5213130e490f13f.js": "/mynaur/react-app/precache-manifest.54b9028814876dd4c5213130e490f13f.js",
+    "service-worker.js": "/mynaur/react-app/service-worker.js",
+    "static/css/main.b59dfb5e.chunk.css.map": "/mynaur/react-app/static/css/main.b59dfb5e.chunk.css.map",
+    "static/js/2.e2c89c95.chunk.js.LICENSE": "/mynaur/react-app/static/js/2.e2c89c95.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e9ed416.js",
+    "static/js/2.e2c89c95.chunk.js",
+    "static/css/main.b59dfb5e.chunk.css",
+    "static/js/main.e2ce59a2.chunk.js"
+  ]
+}
